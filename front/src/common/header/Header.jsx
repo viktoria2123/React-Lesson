@@ -1,9 +1,12 @@
+import Button from '../../component/Button/Button'
 import './header.css'
+
 
 function Header() {
     return (
         <header className="header">
             <div className="container">
+                <Button text='Header button' className='header__btn'/>
                 <nav>
                     <ul>
                         <li>

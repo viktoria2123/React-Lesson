@@ -1,0 +1,9 @@
+.header {
+    background-color: blueviolet;
+
+    &__btn {
+        background-color: aquamarine;
+        color: blueviolet;
+        margin: 20px;
+    }
+}
