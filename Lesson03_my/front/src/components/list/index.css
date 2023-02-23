@@ -1,0 +1,17 @@
+img {
+    width: 400px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.box {
+    border: 1px solid;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    /* margin-bottom: 10px; */
+    background: rgba(172, 255, 47, 0.318);
+}

@@ -1,0 +1,10 @@
+.carts {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.cart {
+    padding: 10px;
+    border: 1px solid;
+}
