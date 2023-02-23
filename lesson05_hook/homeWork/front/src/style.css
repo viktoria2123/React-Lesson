@@ -1,0 +1,45 @@
+
+section {
+    background-color: #6b3e9943;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: fit-content;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: 1px solid;
+    border-radius: 25px;
+}
+
+h1,
+h2,
+h3 {
+    color: rgb(11, 101, 66);
+    text-align: center;
+}
+
+.sel {
+    font-size: large;
+    margin: 10px;
+}
+
+input[type="text"],
+button {
+    background-color: #ffffff;
+    color: black;
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4caf50;
+}
+
+p {
+    color: #010f01;
+}
