@@ -1,0 +1,16 @@
+.carts {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.cart {
+    padding: 10px;
+    border: 1px solid;
+}
+
+.rick__nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
